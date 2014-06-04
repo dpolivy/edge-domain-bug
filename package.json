@@ -1,0 +1,12 @@
+{
+	"name": "edge-domain-bug",
+	"description": "Repro of domain error handling with edge.js",
+	"version": "0.0.1",
+	"private": true,
+	"main": "index.js",
+	"dependencies": {
+		"edge": ""
+	},
+	"devDependencies": {
+	}
+}
